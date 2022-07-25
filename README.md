@@ -13,3 +13,7 @@ https://www.figma.com/file/DYjC2xXZwq2z6CbunzoZR3/photolacks?node-id=0%3A1
 <strong>laba</strong> <br>
 Личный сайт-визитка <br>
 https://www.figma.com/file/xwnrGtDikD84ZEGHk9p2dL/Untitled?node-id=0%3A1
+
+<strong>CryptoLotto</strong> <br>
+Продажа NFT билетов <br>
+https://www.figma.com/file/i8ugrGKppv9pqlsuyrmu0D/Untitled?node-id=0%3A1
