@@ -1,6 +1,6 @@
 <strong>LoftZone</strong> <br>
 За идею был взят выдуманный(!) магазин мебели в стиле лофт, макет оформлен минималистично. <br>
-https://www.behance.net/gallery/149530655/LoftZone/modules/844487361
+https://www.behance.net/gallery/149530655/LoftZone
 
 <strong>Note</strong> <br>
 Заметки на минималках, с красивым дизайном и UX оптимизацией. <br>
