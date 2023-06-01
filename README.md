@@ -17,3 +17,8 @@ https://www.figma.com/file/xwnrGtDikD84ZEGHk9p2dL/Untitled?node-id=0%3A1
 <strong>CryptoLotto</strong> <br>
 Продажа NFT билетов <br>
 https://www.figma.com/file/i8ugrGKppv9pqlsuyrmu0D/Untitled?node-id=0%3A1
+
+
+<strong>SixWords</strong> <br>
+Магазин продажи книг по 6 словам пользователя
+https://www.figma.com/proto/xzjUH10T07Ic10sk3adkoC/Untitled?type=design&node-id=17-48&scaling=min-zoom&page-id=0%3A1
