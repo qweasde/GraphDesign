@@ -1,6 +1,6 @@
 <strong>LoftZone</strong> <br>
 За идею был взят выдуманный(!) магазин мебели в стиле лофт, макет оформлен минималистично. <br>
-https://www.figma.com/file/Z1v52jGPEMfoC67mFisC17/LoftZone?node-id=0%3A1
+https://www.behance.net/gallery/149530655/LoftZone/modules/844487361
 
 <strong>Note</strong> <br>
 Заметки на минималках, с красивым дизайном и UX оптимизацией. <br>
