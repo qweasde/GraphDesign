@@ -3,8 +3,8 @@
 https://www.behance.net/gallery/149530655/LoftZone
 
 <strong>Note</strong> <br>
-Заметки на минималках, с красивым дизайном и UX оптимизацией. <br>
-https://www.figma.com/file/MB764zn3D2wwV2ByDNEaEa/Note
+Заметки на минималках, с красивым дизайном и UX оптимизацией. (Можно потыкать) <br>
+https://www.figma.com/proto/MB764zn3D2wwV2ByDNEaEa/Note?type=design&node-id=2-3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3
 
  <strong>Photolacks</strong> <br>
 Лендинг фотостудии, оформлен яркими цветами. <br>
@@ -22,3 +22,7 @@ https://www.figma.com/file/i8ugrGKppv9pqlsuyrmu0D/Untitled?node-id=0%3A1
 <strong>SixWords</strong> <br>
 Магазин продажи книг по 6 словам пользователя
 https://www.figma.com/proto/xzjUH10T07Ic10sk3adkoC/Untitled?type=design&node-id=17-48&scaling=min-zoom&page-id=0%3A1
+
+<strong>Moda</strong> <br>
+Проект в университет
+https://www.figma.com/proto/TzlVAga13bXqVXCPkZuPXP/Untitled?type=design&node-id=0-1&scaling=min-zoom&page-id=0%3A1
