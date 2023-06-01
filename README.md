@@ -20,9 +20,9 @@ https://www.figma.com/file/i8ugrGKppv9pqlsuyrmu0D/Untitled?node-id=0%3A1
 
 
 <strong>SixWords</strong> <br>
-Магазин продажи книг по 6 словам пользователя
+Магазин продажи книг по 6 словам пользователя <br>
 https://www.figma.com/proto/xzjUH10T07Ic10sk3adkoC/Untitled?type=design&node-id=17-48&scaling=min-zoom&page-id=0%3A1
 
 <strong>Moda</strong> <br>
-Проект в университет
+Проект в университет <br>
 https://www.figma.com/proto/TzlVAga13bXqVXCPkZuPXP/Untitled?type=design&node-id=0-1&scaling=min-zoom&page-id=0%3A1
